@@ -8,7 +8,15 @@ Variablen, Methoden, Klassen, usw. sollten aussagekräftige Namen bekommen, die 
 
 Beispiel:
 ```java
+// Wie man es machen sollte
+int tag = 11
+int monat = 3
+int jahr = 1995
 
+// Wie man es nicht machen sollte
+int t = 11
+int m = 3
+int j = 1995
 ```
 
 ## 2. Sinvolle Kommentare
@@ -18,7 +26,21 @@ Besonders für AnfängerInnen lohnt sich ausführliches kommentieren aber ebenfa
 
 Beispiel:
 ```java
+// Wie man es machen sollte
 
+// Damit ein Geburtsdatum ausgegeben werden kann, müssen Variablen tag, monat und jahr ermittelt werden
+int tag = 11
+int monat = 3
+int jahr = 1995
+
+// Wie man es nicht machen sollte
+
+// Variable tag setzen
+int tag = 11
+// Variable monat setzen
+int monat = 3
+// Variable Jahr setzen
+int jahr = 1995
 ```
 
 ## 3. Einheitliche Formatierung und Konventionen
@@ -27,7 +49,10 @@ Skripte sollten einheitlich Formatiert sein und Benennungen einer gleichbleibend
 
 Beispiel:
 ```java
+// Wie man es machen sollte
 
+
+// Wie man es nicht machen sollte
 ```
 
 ## 4. Fokussierte Funktionen
@@ -36,7 +61,10 @@ Funktionen sollten möglichst kurz sein und der Lösung von genau einer Aufgabe 
 
 Beispiel:
 ```java
+// Wie man es machen sollte
 
+
+// Wie man es nicht machen sollte
 ```
 
 ## 5. Keep it simple, Stupid (KISS-Prinzip)
@@ -45,14 +73,20 @@ Eine Lösung sollte immer über den einfachsten Weg erfolgen. Unnötige Komplexi
 
 Beispiel:
 ```java
+// Wie man es machen sollte
 
+
+// Wie man es nicht machen sollte
 ```
 
 ## 6. You aren't gonna need it (YAGNI-Prinzip)
 
+Nach diesem Prinzip wird nur das Implementiert, was aktuell tatsächlich benötigt wird. Erweiterungen/Rücksicht auf spekulative künftige Anwendungsfälle oder ähnliches sind nicht zu beachten.
+
 Beispiel:
 ```java
+// Wie man es machen sollte
 
+
+// Wie man es nicht machen sollte
 ```
-
-Nach diesem Prinzip wird nur das Implementiert, was aktuell tatsächlich benötigt wird. Erweiterungen/Rücksicht auf spekulative künftige Anwendungsfälle oder ähnliches sind nicht zu beachten.
