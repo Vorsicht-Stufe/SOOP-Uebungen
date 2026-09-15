@@ -1,4 +1,4 @@
-# Uebung 5: Methoden
+# Übung 5: Methoden
 
 ## Aufgaben
 
