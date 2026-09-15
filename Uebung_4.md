@@ -1,4 +1,4 @@
-# Uebung 4: Schleifen
+# Übung 4: Schleifen
 
 ## Aufgaben
 
