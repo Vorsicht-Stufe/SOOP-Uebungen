@@ -16,10 +16,11 @@ In Java muss man beim erstmaligen Aufruf einer Variable ihren Datentyp festlegen
 Nach: [W3schools - Java - Data Types](https://www.w3schools.com/JAVA/java_data_types.asp)
 
 Darüber hinaus sind noch Strings ein wichtiger Datentyp. Sie enthalten als Variable eine Kollektion von chars und werden durch doppelte Anführungszeichen eingegrenzt ("").
-
+Mehr dazu: [W3schools - Java - Strings](https://www.w3schools.com/JAVA/java_strings.asp)
 
 Beispiele:
 ```java
+// Primitive Datentypen
 byte a = 1;
 short b = 2;
 int c = 3;
