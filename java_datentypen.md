@@ -33,7 +33,7 @@ long d = 4;
 float e = 0.5;
 double f = 0.6;
 boolean g = true;
-char h = 'h'; // Wichtig: Um char zu nutzen, müssen einfach Anführungszeichen genutzt werden "h" wird als String interpretiert, weshalb char h = "h"; zu einer Fehlermeldung führen wird.
+char h = 'h'; // Wichtig: Um char zu nutzen, müssen einfache Anführungszeichen genutzt werden "h" wird als String mit einer Länge von 1 interpretiert, weshalb char h = "h"; zu einer Fehlermeldung führen wird.
 
 // Achtung: Der Datentyp String wird groß geschrieben
 String i = "Ich bin ein String";
