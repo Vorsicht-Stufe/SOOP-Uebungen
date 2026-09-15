@@ -33,8 +33,8 @@ long d = 4;
 float e = 0.5;
 double f = 0.6;
 boolean g = true;
-char h = h
+char h = h;
 
 // Achtung: Der Datentyp String wird groß geschrieben
-String i = "Ich bin ein String"
+String i = "Ich bin ein String";
 ```
