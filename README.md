@@ -15,4 +15,5 @@
 [How to accept user input in Java](https://www.youtube.com/watch?v=wAEPokhj5Q4&t=1s)\
 [Output in Java](https://www.w3schools.com/java/java_output.asp)\
 [Java Arithmetic Operators](https://www.w3schools.com/java/java_operators_arithmetic.asp)\
+[Java Comparison Operators](https://www.w3schools.com/java/java_operators_comparison.asp)\
 [Java Math](https://www.w3schools.com/java/java_math.asp)
