@@ -51,7 +51,7 @@ Beispiele:
 
 ```
 Geben Sie a, b, c ein: 1.0 3 1
-Die Nullstellen sind -0.3819660112501051 und ...
+Die Nullstellen sind -0.3819660112501051 und -2.618033988749895
 
 Geben Sie a, b, c ein: 1.0 2.0 1.0
 Die Nullstelle ist -1.0
@@ -59,8 +59,6 @@ Die Nullstelle ist -1.0
 Geben Sie a, b, c ein: 1 2 3
 Die Gleichung hat keine reellen Nullstellen.
 ```
-
-> ⚠️ Hinweis: Im Screenshot ist die erste Ausgabezeile („Die Nullstellen sind -0.3819660112501051 und …“) rechts abgeschnitten. Der zweite Nullstellenwert fehlt im Bild – bitte ggf. mit einem vollständigen Screenshot ergänzen.
 
 ---
 
@@ -84,7 +82,7 @@ gerundet: 17.01
 
 ---
 
-## Aufgabe 5 (Titel im Screenshot abgeschnitten)
+## Aufgabe 5
 
 Schreiben Sie ein Programm, das nacheinander an der Konsole persönliche Daten von zwei Personen einliest und wie im Beispiel formatiert wieder ausgibt. Achten Sie genau auf die Formatierung der Ausgabe im Beispiel. Verwenden Sie zum Einlesen die verschiedenen `next...`-Methoden der Klasse `Scanner`. Recherchieren Sie dazu die Klasse `Scanner` in der Java-API.
 
@@ -105,10 +103,8 @@ Geburtsdatum: 12.11.1985
 Geschlecht: w
 Guthaben: -144.23
 
-Person   Name           Geburtsdatum   Geschlecht   ...
-------------------------------------------------------
-   1     Willy Winzig     4.2.1983         m         ...
-   2     Susi Sorglos    12.11.1985        w         ...
+Person   Name             Geburtsdatum   Geschlecht   Guthaben
+--------------------------------------------------------------
+     1   Willy Winzig       4.2.1983         m           52.45
+     2   Susi Sorglos     12.11.1985         w         -144.23
 ```
-
-> ⚠️ Hinweis: Dieser Screenshot ist am rechten Rand abgeschnitten. Die Aufgabenüberschrift (vermutlich „Aufgabe 5“) sowie die rechte Seite der Ausgabetabelle (z. B. die Spalte „Guthaben“) fehlen im Bild. Bitte bei Bedarf einen vollständigen Screenshot nachreichen, damit ich das ergänzen kann.
