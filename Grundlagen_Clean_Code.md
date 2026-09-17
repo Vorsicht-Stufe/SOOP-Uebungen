@@ -47,46 +47,18 @@ int jahr = 1995
 
 Skripte sollten einheitlich Formatiert sein und Benennungen einer gleichbleibenden Konvention folgen, um die Lesbarkeit zu verbessern.
 
-Beispiel:
-```java
-// Wie man es machen sollte
-
-
-// Wie man es nicht machen sollte
-```
+--> In Eclipse und in VSC kann man über Shortcuts eine Autoformatierung des Codes durchführen lassen (Eclipse: Strg + Umschalt + F; VSC: Alt + Umschalt + F)
 
 ## 4. Fokussierte Funktionen
 
 Funktionen sollten möglichst kurz sein und der Lösung von genau einer Aufgabe dienen. So können sie möglichst häufig für unterschiedlichste Kontexte eingesetzt werden.
 
-Beispiel:
-```java
-// Wie man es machen sollte
-
-
-// Wie man es nicht machen sollte
-```
 
 ## 5. Keep it simple, Stupid (KISS-Prinzip)
 
 Eine Lösung sollte immer über den einfachsten Weg erfolgen. Unnötige Komplexität erschwert nicht nur das Verständnis und die Wartung, sondern führt in der Regel auch zu einer schlechteren Performance der Lösung.
 
-Beispiel:
-```java
-// Wie man es machen sollte
-
-
-// Wie man es nicht machen sollte
-```
 
 ## 6. You aren't gonna need it (YAGNI-Prinzip)
 
 Nach diesem Prinzip wird nur das Implementiert, was aktuell tatsächlich benötigt wird. Erweiterungen/Rücksicht auf spekulative künftige Anwendungsfälle oder ähnliches sind nicht zu beachten.
-
-Beispiel:
-```java
-// Wie man es machen sollte
-
-
-// Wie man es nicht machen sollte
-```
