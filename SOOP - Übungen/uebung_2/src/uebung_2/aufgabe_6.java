@@ -233,6 +233,10 @@ public class aufgabe_6 {
 			}
 			
 		}
+
+		if ( zahl == 0 ) {
+			zahlwort = "Null";
+		}
 		
 		System.out.println(zahlwort);
 	}
