@@ -23,7 +23,7 @@ public class aufgabe_5 {
 		int grenze_unten = Math.min(intervallgrenze_1, intervallgrenze_2);
 		int grenze_oben = Math.max(intervallgrenze_1, intervallgrenze_2);
 		
-		if (grenze_unten < zahl && zahl < grenze_oben) {
+		if (grenze_unten =< zahl && zahl =< grenze_oben) {
 			System.out.println(zahl + " ist im Intervall von " + grenze_unten + " bis " + grenze_oben + ".");
 		} else {
 			System.out.println(zahl + " ist nicht im Intervall von " + grenze_unten + " bis " + grenze_oben + ".");
